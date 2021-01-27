@@ -12666,7 +12666,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\isaac.santos\\.nuget\\packages\\": {},
+    "C:\\Users\\isaac.santos.IMBTEXTIL\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -12675,14 +12675,14 @@
       "projectUniqueName": "D:\\PROJETO_C#\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj",
       "projectName": "SalesWebMvc",
       "projectPath": "D:\\PROJETO_C#\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj",
-      "packagesPath": "C:\\Users\\isaac.santos\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\isaac.santos.IMBTEXTIL\\.nuget\\packages\\",
       "outputPath": "D:\\PROJETO_C#\\SalesWebMvc\\SalesWebMvc\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\isaac.santos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\isaac.santos.IMBTEXTIL\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

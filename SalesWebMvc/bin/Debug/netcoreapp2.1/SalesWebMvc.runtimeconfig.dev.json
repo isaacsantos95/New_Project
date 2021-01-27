@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\isaac.santos\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\isaac.santos\\.nuget\\packages",
+      "C:\\Users\\isaac.santos.IMBTEXTIL\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\isaac.santos.IMBTEXTIL\\.nuget\\packages",
       "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
     ]
   }
